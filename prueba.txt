@@ -3,5 +3,11 @@ Esta es la segunda línea
 Adios
 dan009
 DNI
-Teléfono
-Edad
+EDAD
+FECHA
+1
+2
+3
+Línea 1
+Línea 2
+Línea 3
